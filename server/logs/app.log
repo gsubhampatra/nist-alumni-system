@@ -1,0 +1,281 @@
+2024-10-06 11:10:33 [INFO]: DB connected successfully
+2024-10-06 11:10:33 [INFO]: Server Started successfully
+2024-10-06 11:18:38 [INFO]: DB connected successfully
+2024-10-06 11:18:38 [INFO]: Server Started successfully
+2024-10-06 11:21:30 [INFO]: DB connected successfully
+2024-10-06 11:21:30 [INFO]: Server Started successfully
+2024-10-06 11:23:10 [INFO]: DB connected successfully
+2024-10-06 11:23:10 [INFO]: Server Started successfully
+2024-10-06 11:24:29 [INFO]: DB connected successfully
+2024-10-06 11:24:29 [INFO]: Server Started successfully
+2024-10-06 11:24:34 [INFO]: GET / - 
+2024-10-06 11:24:35 [INFO]: GET /favicon.ico - 
+2024-10-06 11:25:23 [INFO]: DB connected successfully
+2024-10-06 11:25:23 [INFO]: Server Started successfully
+2024-10-06 11:29:33 [INFO]: DB connected successfully
+2024-10-06 11:29:33 [INFO]: Server Started successfully
+2024-10-06 11:31:53 [INFO]: DB connected successfully
+2024-10-06 11:31:53 [INFO]: Server Started successfully
+2024-10-06 11:32:03 [INFO]: DB connected successfully
+2024-10-06 11:32:03 [INFO]: Server Started successfully
+2024-10-06 11:32:19 [INFO]: DB connected successfully
+2024-10-06 11:32:19 [INFO]: Server Started successfully
+2024-10-06 11:34:33 [INFO]: DB connected successfully
+2024-10-06 11:34:33 [INFO]: Server Started successfully
+2024-10-06 11:35:20 [INFO]: DB connected successfully
+2024-10-06 11:35:20 [INFO]: Server Started successfully
+2024-10-06 11:37:06 [INFO]: DB connected successfully
+2024-10-06 11:37:06 [INFO]: Server Started successfully
+2024-10-06 11:38:14 [INFO]: DB connected successfully
+2024-10-06 11:38:14 [INFO]: Server Started successfully
+2024-10-06 11:39:08 [INFO]: DB connected successfully
+2024-10-06 11:39:08 [INFO]: Server Started successfully
+2024-10-06 11:39:47 [INFO]: DB connected successfully
+2024-10-06 11:39:47 [INFO]: Server Started successfully
+2024-10-06 11:40:00 [INFO]: DB connected successfully
+2024-10-06 11:40:00 [INFO]: Server Started successfully
+2024-10-06 14:36:19 [INFO]: DB connected successfully
+2024-10-06 14:36:19 [INFO]: Server Started successfully
+2024-10-06 14:56:13 [INFO]: DB connected successfully
+2024-10-06 14:56:13 [INFO]: Server Started successfully
+2024-10-06 14:59:07 [INFO]: DB connected successfully
+2024-10-06 14:59:07 [INFO]: Server Started successfully
+2024-10-06 15:00:56 [INFO]: POST /api/user/register 
+2024-10-06 15:02:46 [INFO]: DB connected successfully
+2024-10-06 15:02:46 [INFO]: Server Started successfully
+2024-10-06 15:02:51 [INFO]: POST /api/user/register 
+2024-10-06 15:03:57 [INFO]: DB connected successfully
+2024-10-06 15:03:57 [INFO]: Server Started successfully
+2024-10-06 15:04:01 [INFO]: POST /api/user/register 
+2024-10-06 15:04:01 [ERROR]: Assignment to constant variable.
+2024-10-06 15:04:40 [INFO]: DB connected successfully
+2024-10-06 15:04:40 [INFO]: Server Started successfully
+2024-10-06 15:04:43 [INFO]: POST /api/user/register 
+2024-10-06 15:04:43 [ERROR]: {}
+2024-10-06 15:05:20 [INFO]: DB connected successfully
+2024-10-06 15:05:20 [INFO]: Server Started successfully
+2024-10-06 15:05:24 [INFO]: POST /api/user/register 
+2024-10-06 15:05:24 [ERROR]: User.create(...).select is not a function
+2024-10-06 15:06:00 [INFO]: DB connected successfully
+2024-10-06 15:06:00 [INFO]: Server Started successfully
+2024-10-06 15:06:03 [INFO]: POST /api/user/register 
+2024-10-06 15:06:09 [INFO]: POST /api/user/register 
+2024-10-06 15:06:44 [INFO]: DB connected successfully
+2024-10-06 15:06:44 [INFO]: Server Started successfully
+2024-10-06 15:06:48 [INFO]: POST /api/user/register 
+2024-10-06 15:06:48 [ERROR]: User.create(...).select is not a function
+2024-10-06 15:08:15 [INFO]: DB connected successfully
+2024-10-06 15:08:15 [INFO]: Server Started successfully
+2024-10-06 15:09:42 [INFO]: DB connected successfully
+2024-10-06 15:09:42 [INFO]: Server Started successfully
+2024-10-06 15:12:35 [INFO]: DB connected successfully
+2024-10-06 15:12:35 [INFO]: Server Started successfully
+2024-10-06 15:13:24 [INFO]: DB connected successfully
+2024-10-06 15:13:24 [INFO]: Server Started successfully
+2024-10-06 15:14:32 [INFO]: POST /api/user/register 
+2024-10-06 15:14:33 [INFO]: New User Created - {"email":"gsubhampatra@gmail.com","role":"admin","isVerified":false,"_id":"67025c0177de65d16ee52407","createdAt":"2024-10-06T09:44:33.019Z","updatedAt":"2024-10-06T09:44:33.019Z","__v":0} 
+2024-10-06 15:14:33 [ERROR]: JWT_SECRET is not defined
+2024-10-06 15:16:08 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:16:08 [INFO]: Server Started successfully
+2024-10-06 15:16:56 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:16:56 [INFO]: Server Started successfully
+2024-10-06 15:18:09 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:18:09 [INFO]: Server Started successfully
+2024-10-06 15:19:08 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:19:08 [INFO]: Server Started successfully
+2024-10-06 15:21:55 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:21:55 [INFO]: Server Started successfully
+2024-10-06 15:22:29 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:22:29 [INFO]: Server Started successfully
+2024-10-06 15:22:52 [INFO]: DB connected successfully
+2024-10-06 15:22:52 [INFO]: Server Started successfully
+2024-10-06 15:23:29 [INFO]: DB connected successfully
+2024-10-06 15:23:29 [INFO]: Server Started successfully
+2024-10-06 15:23:35 [INFO]: POST /api/user/register 
+2024-10-06 15:23:35 [INFO]: New User Created - {"email":"gsubhampatra@gmail.com","role":"admin","isVerified":false,"_id":"67025e1f710b37fb00ccf4da","createdAt":"2024-10-06T09:53:35.532Z","updatedAt":"2024-10-06T09:53:35.532Z","__v":0} 
+2024-10-06 15:27:35 [INFO]: DB connected successfully
+2024-10-06 15:27:35 [INFO]: Server Started successfully
+2024-10-06 15:27:53 [INFO]: POST /api/user/register 
+2024-10-06 15:28:51 [INFO]: DB connected successfully
+2024-10-06 15:28:51 [INFO]: Server Started successfully
+2024-10-06 15:28:56 [INFO]: POST /api/user/register 
+2024-10-06 15:31:52 [INFO]: DB connected successfully
+2024-10-06 15:31:52 [INFO]: Server Started successfully
+2024-10-06 15:34:56 [INFO]: DB connected successfully
+2024-10-06 15:34:56 [INFO]: Server Started successfully
+2024-10-06 15:35:24 [INFO]: DB connected successfully
+2024-10-06 15:35:24 [INFO]: Server Started successfully
+2024-10-06 15:37:40 [INFO]: DB connected successfully
+2024-10-06 15:37:40 [INFO]: Server Started successfully
+2024-10-06 15:38:36 [INFO]: POST /api/user/register 
+2024-10-06 15:40:16 [INFO]: DB connected successfully
+2024-10-06 15:40:16 [INFO]: Server Started successfully
+2024-10-06 15:40:26 [INFO]: POST /api/user/register 
+2024-10-06 15:41:03 [INFO]: DB connected successfully
+2024-10-06 15:41:03 [INFO]: Server Started successfully
+2024-10-06 15:41:06 [INFO]: POST /api/user/register 
+2024-10-06 15:41:40 [INFO]: DB connected successfully
+2024-10-06 15:41:40 [INFO]: Server Started successfully
+2024-10-06 15:41:47 [INFO]: POST /api/user/register 
+2024-10-06 15:41:51 [INFO]: POST /api/user/register 
+2024-10-06 15:42:13 [INFO]: DB connected successfully
+2024-10-06 15:42:13 [INFO]: Server Started successfully
+2024-10-06 15:42:16 [INFO]: POST /api/user/register 
+2024-10-06 15:42:16 [INFO]: New User Created - {"username":"gsubhampatra","email":"gsubhampatra@gmail.com","role":"admin","isVerified":false,"_id":"67026280c7eec7ca6ad26000","createdAt":"2024-10-06T10:12:16.399Z","updatedAt":"2024-10-06T10:12:16.399Z","__v":0} 
+2024-10-06 15:43:25 [INFO]: POST /api/user/register 
+2024-10-06 15:43:26 [INFO]: New User Created - {"username":"gsubham","email":"gsubham@gmail.com","role":"student","isVerified":false,"_id":"670262c6c7eec7ca6ad26003","createdAt":"2024-10-06T10:13:26.016Z","updatedAt":"2024-10-06T10:13:26.016Z","__v":0} 
+2024-10-06 15:46:19 [INFO]: DB connected successfully
+2024-10-06 15:46:19 [INFO]: Server Started successfully
+2024-10-06 15:46:33 [INFO]: GET / 
+2024-10-06 15:48:19 [INFO]: POST /api/user/login 
+2024-10-06 15:48:59 [INFO]: DB connected successfully
+2024-10-06 15:48:59 [INFO]: Server Started successfully
+2024-10-06 15:49:58 [INFO]: DB connected successfully
+2024-10-06 15:49:58 [INFO]: Server Started successfully
+2024-10-06 15:50:04 [INFO]: POST /api/user/login 
+2024-10-06 15:50:42 [INFO]: DB connected successfully
+2024-10-06 15:50:42 [INFO]: Server Started successfully
+2024-10-06 15:52:13 [INFO]: DB connected successfully
+2024-10-06 15:52:13 [INFO]: Server Started successfully
+2024-10-06 15:53:55 [INFO]: POST /api/user/login 
+2024-10-06 15:55:27 [INFO]: DB connected successfully
+2024-10-06 15:55:27 [INFO]: Server Started successfully
+2024-10-06 15:55:34 [INFO]: POST /api/user/login 
+2024-10-06 18:30:51 [INFO]: DB connected successfully
+2024-10-06 18:30:51 [INFO]: Server Started successfully
+2024-10-06 18:30:54 [INFO]: POST /api/user/login 
+2024-10-06 18:31:32 [INFO]: DB connected successfully
+2024-10-06 18:31:32 [INFO]: Server Started successfully
+2024-10-06 18:31:48 [INFO]: DB connected successfully
+2024-10-06 18:31:48 [INFO]: Server Started successfully
+2024-10-06 18:32:22 [INFO]: POST /api/user/register 
+2024-10-06 18:32:23 [INFO]: New User Created - {"username":"subham","email":"subham@gmail.com","role":"student","isVerified":false,"_id":"67028a5ffa497215ceeeda38","createdAt":"2024-10-06T13:02:23.030Z","updatedAt":"2024-10-06T13:02:23.030Z","__v":0} 
+2024-10-06 18:32:43 [INFO]: POST /api/user/login 
+2024-10-06 18:36:16 [INFO]: DB connected successfully
+2024-10-06 18:36:16 [INFO]: Server Started successfully
+2024-10-06 18:36:31 [INFO]: POST /api/user/register 
+2024-10-06 18:36:31 [INFO]: New User Created - {"username":"gskp","email":"gskp@gmail.com","role":"student","isVerified":false,"_id":"67028b57fee0b7ff2d848e6f","createdAt":"2024-10-06T13:06:31.224Z","updatedAt":"2024-10-06T13:06:31.224Z","__v":0} 
+2024-10-06 18:36:50 [INFO]: POST /api/user/login 
+2024-10-06 18:38:30 [INFO]: DB connected successfully
+2024-10-06 18:38:30 [INFO]: Server Started successfully
+2024-10-06 18:50:30 [INFO]: DB connected successfully
+2024-10-06 18:50:30 [INFO]: Server Started successfully
+2024-10-06 18:51:11 [INFO]: DB connected successfully
+2024-10-06 18:51:11 [INFO]: Server Started successfully
+2024-10-06 18:51:25 [INFO]: POST /api/user/register 
+2024-10-06 18:51:25 [INFO]: New User Created - {"username":"gs","email":"gs@gmail.com","role":"student","isVerified":false,"_id":"67028ed5696b388d742d117e","createdAt":"2024-10-06T13:21:25.434Z","updatedAt":"2024-10-06T13:21:25.434Z","__v":0}
+2024-10-06 18:51:49 [INFO]: POST /api/user/login 
+2024-10-06 18:53:23 [INFO]: DB connected successfully
+2024-10-06 18:53:23 [INFO]: Server Started successfully
+2024-10-06 18:54:29 [INFO]: DB connected successfully
+2024-10-06 18:54:29 [INFO]: Server Started successfully
+2024-10-06 18:54:32 [INFO]: POST /api/user/login 
+2024-10-06 18:54:55 [INFO]: POST /api/user/register 
+2024-10-06 18:54:55 [INFO]: New User Created - {"username":"ssb","email":"ssb@gmail.com","role":"student","isVerified":false,"_id":"67028fa70424370074303afc","createdAt":"2024-10-06T13:24:55.631Z","updatedAt":"2024-10-06T13:24:55.631Z","__v":0}
+2024-10-06 18:55:07 [INFO]: POST /api/user/login 
+2024-10-06 18:57:24 [INFO]: GET /api/user/subham 
+2024-10-06 18:57:30 [INFO]: GET /api/user/ssb 
+2024-10-06 19:00:32 [INFO]: POST /api/user/register 
+2024-10-06 19:00:32 [INFO]: New User Created - {"username":"user","name":"John Doe","email":"user@example.com","role":"alumni","isVerified":false,"_id":"670290f80424370074303b02","createdAt":"2024-10-06T13:30:32.336Z","updatedAt":"2024-10-06T13:30:32.336Z","__v":0}
+2024-10-06 19:00:46 [INFO]: POST /api/user/login 
+2024-10-06 19:04:16 [INFO]: DB connected successfully
+2024-10-06 19:04:16 [INFO]: Server Started successfully
+2024-10-06 19:10:47 [INFO]: DB connected successfully
+2024-10-06 19:10:47 [INFO]: Server Started successfully
+2024-10-06 19:11:36 [INFO]: DB connected successfully
+2024-10-06 19:11:36 [INFO]: Server Started successfully
+2024-10-06 19:11:46 [INFO]: POST /api/user/register 
+2024-10-06 19:11:46 [INFO]: New User Created - {"username":"user","name":"John Doe","email":"user@example.com","role":"alumni","isVerified":false,"_id":"6702939a42932d2c267817ad","createdAt":"2024-10-06T13:41:46.525Z","updatedAt":"2024-10-06T13:41:46.525Z","__v":0}
+2024-10-06 19:11:53 [INFO]: POST /api/user/login 
+2024-10-06 19:13:13 [INFO]: DB connected successfully
+2024-10-06 19:13:13 [INFO]: Server Started successfully
+2024-10-06 19:14:15 [INFO]: DB connected successfully
+2024-10-06 19:14:15 [INFO]: Server Started successfully
+2024-10-06 19:14:19 [INFO]: POST /api/user/login 
+2024-10-06 19:15:49 [INFO]: DB connected successfully
+2024-10-06 19:15:49 [INFO]: Server Started successfully
+2024-10-06 19:16:35 [INFO]: DB connected successfully
+2024-10-06 19:16:35 [INFO]: Server Started successfully
+2024-10-06 19:17:00 [INFO]: DB connected successfully
+2024-10-06 19:17:00 [INFO]: Server Started successfully
+2024-10-06 19:17:05 [INFO]: POST /api/user/login 
+2024-10-06 19:17:56 [INFO]: DB connected successfully
+2024-10-06 19:17:56 [INFO]: Server Started successfully
+2024-10-06 19:17:59 [INFO]: POST /api/user/login 
+2024-10-06 19:18:36 [INFO]: DB connected successfully
+2024-10-06 19:18:36 [INFO]: Server Started successfully
+2024-10-06 19:18:47 [INFO]: POST /api/user/login 
+2024-10-06 19:20:50 [INFO]: GET /api/user/user 
+2024-10-06 19:22:18 [INFO]: DB connected successfully
+2024-10-06 19:22:18 [INFO]: Server Started successfully
+2024-10-06 19:26:39 [INFO]: DB connected successfully
+2024-10-06 19:26:39 [INFO]: Server Started successfully
+2024-10-06 19:26:43 [INFO]: DB connected successfully
+2024-10-06 19:26:43 [INFO]: Server Started successfully
+2024-10-06 19:26:59 [INFO]: DB connected successfully
+2024-10-06 19:26:59 [INFO]: Server Started successfully
+2024-10-06 19:27:49 [INFO]: DB connected successfully
+2024-10-06 19:27:49 [INFO]: Server Started successfully
+2024-10-06 19:28:05 [INFO]: GET /api/user/user 
+2024-10-06 19:28:23 [INFO]: GET /api/user/username=user 
+2024-10-06 19:30:08 [INFO]: GET /api/user/username:user 
+2024-10-06 19:30:16 [INFO]: GET /api/user/:user 
+2024-10-06 19:31:43 [INFO]: DB connected successfully
+2024-10-06 19:31:43 [INFO]: Server Started successfully
+2024-10-06 19:31:53 [INFO]: DB connected successfully
+2024-10-06 19:31:53 [INFO]: Server Started successfully
+2024-10-06 19:31:56 [INFO]: GET /api/user/?usename=user 
+2024-10-06 19:32:33 [INFO]: DB connected successfully
+2024-10-06 19:32:33 [INFO]: Server Started successfully
+2024-10-06 19:32:35 [INFO]: GET /api/user/?usename=user 
+2024-10-06 19:33:01 [INFO]: GET /api/user/?username=user 
+2024-10-06 19:38:23 [INFO]: POST /api/user/register 
+2024-10-06 19:38:23 [INFO]: New User Created - {"username":"gsubhampatra","name":"Subham Patra","email":"gsubhampatra@gmail.com","role":"student","isVerified":false,"_id":"670299d72cad5c4f71ef588d","createdAt":"2024-10-06T14:08:23.391Z","updatedAt":"2024-10-06T14:08:23.391Z","__v":0}
+2024-10-06 19:39:04 [INFO]: POST /api/user/login 
+2024-10-06 19:39:26 [INFO]: GET /api/user/?username=gsubhampatra 
+2024-10-06 19:41:36 [INFO]: DB connected successfully
+2024-10-06 19:41:36 [INFO]: Server Started successfully
+2024-10-06 19:42:52 [INFO]: DB connected successfully
+2024-10-06 19:42:52 [INFO]: Server Started successfully
+2024-10-06 19:43:19 [INFO]: POST /api/user/verify-request 
+2024-10-06 19:43:20 [ERROR]: Missing credentials for "PLAIN"
+2024-10-06 19:45:51 [INFO]: DB connected successfully
+2024-10-06 19:45:51 [INFO]: Server Started successfully
+2024-10-06 19:46:14 [INFO]: DB connected successfully
+2024-10-06 19:46:14 [INFO]: Server Started successfully
+2024-10-06 19:46:34 [INFO]: DB connected successfully
+2024-10-06 19:46:34 [INFO]: Server Started successfully
+2024-10-06 19:46:46 [INFO]: DB connected successfully
+2024-10-06 19:46:46 [INFO]: Server Started successfully
+2024-10-06 19:46:52 [INFO]: POST /api/user/verify-request 
+2024-10-06 19:46:53 [ERROR]: Missing credentials for "PLAIN"
+2024-10-06 19:48:51 [INFO]: DB connected successfully
+2024-10-06 19:48:51 [INFO]: Server Started successfully
+2024-10-06 19:48:58 [INFO]: POST /api/user/verify-request 
+2024-10-06 19:49:01 [ERROR]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20c138cff67sm25737505ad.106 - gsmtp
+2024-10-06 20:05:38 [INFO]: POST /api/user/verify-request 
+2024-10-06 20:05:40 [ERROR]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20c138d4fdasm25971935ad.118 - gsmtp
+2024-10-06 20:20:05 [INFO]: POST /api/user/login 
+2024-10-06 20:20:14 [INFO]: POST /api/user/verify-request 
+2024-10-06 20:20:16 [ERROR]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e1e85c8f14sm5232384a91.20 - gsmtp
+2024-10-06 20:23:58 [INFO]: DB connected successfully
+2024-10-06 20:23:58 [INFO]: Server Started successfully
+2024-10-06 20:24:30 [INFO]: POST /api/user/verify-request 
+2024-10-06 20:24:35 [INFO]: Email sent: <57fc2b9c-6fae-fc2f-1331-376a6afa368c@gmail.com>
+2024-10-06 20:26:40 [INFO]: DB connected successfully
+2024-10-06 20:26:40 [INFO]: Server Started successfully
+2024-10-06 20:27:28 [INFO]: DB connected successfully
+2024-10-06 20:27:28 [INFO]: Server Started successfully
+2024-10-06 20:27:30 [INFO]: POST /api/user/verify 
+2024-10-06 20:27:50 [INFO]: GET /api/user/profile?username=gsubhampatra 
+2024-10-06 20:30:26 [INFO]: DB connected successfully
+2024-10-06 20:30:26 [INFO]: Server Started successfully
+2024-10-06 20:30:29 [INFO]: GET /api/user/profile?username=gsubhampatra 
+2024-10-06 22:23:37 [INFO]: OPTIONS /api/user/login 
+2024-10-06 22:25:44 [INFO]: DB connected successfully
+2024-10-06 22:25:44 [INFO]: Server Started successfully
+2024-10-06 22:25:50 [INFO]: POST /api/user/login 
+2024-10-06 22:42:30 [INFO]: POST /api/user/login 

@@ -1,0 +1,49 @@
+2024-10-06 14:31:50 [ERROR]: uncaughtException: string is not defined
+ReferenceError: string is not defined
+    at file:///D:/SubhamCode/NISTCCC/nist-alumni-system/server/models/userModel.js:6:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+2024-10-06 14:32:58 [ERROR]: uncaughtException: string is not defined
+ReferenceError: string is not defined
+    at file:///D:/SubhamCode/NISTCCC/nist-alumni-system/server/models/userModel.js:6:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+2024-10-06 14:34:10 [ERROR]: uncaughtException: boolean is not defined
+ReferenceError: boolean is not defined
+    at file:///D:/SubhamCode/NISTCCC/nist-alumni-system/server/models/userModel.js:31:13
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+2024-10-06 14:34:48 [ERROR]: uncaughtException: userSchema is not defined
+ReferenceError: userSchema is not defined
+    at file:///D:/SubhamCode/NISTCCC/nist-alumni-system/server/models/userModel.js:40:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+2024-10-06 14:35:33 [ERROR]: uncaughtException: post is not defined
+ReferenceError: post is not defined
+    at file:///D:/SubhamCode/NISTCCC/nist-alumni-system/server/routes/userRoutes.js:10:32
+    at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:123:5)
+2024-10-06 15:04:01 [ERROR]: Assignment to constant variable.
+2024-10-06 15:04:43 [ERROR]: {}
+2024-10-06 15:05:24 [ERROR]: User.create(...).select is not a function
+2024-10-06 15:06:48 [ERROR]: User.create(...).select is not a function
+2024-10-06 15:14:33 [ERROR]: JWT_SECRET is not defined
+2024-10-06 15:16:08 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:16:56 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:18:09 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:19:08 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:21:55 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 15:22:29 [ERROR]: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-10-06 19:43:20 [ERROR]: Missing credentials for "PLAIN"
+2024-10-06 19:46:53 [ERROR]: Missing credentials for "PLAIN"
+2024-10-06 19:49:01 [ERROR]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20c138cff67sm25737505ad.106 - gsmtp
+2024-10-06 20:05:40 [ERROR]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-20c138d4fdasm25971935ad.118 - gsmtp
+2024-10-06 20:20:16 [ERROR]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2e1e85c8f14sm5232384a91.20 - gsmtp
